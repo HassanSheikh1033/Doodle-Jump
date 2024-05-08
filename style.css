@@ -1,0 +1,40 @@
+body {
+  /* background-color: rgb(78, 78, 78); */
+  background-image: url(https://rare-gallery.com/thumbs/355395-4k-wallpaper.jpg);
+}
+.grid {
+  width: 400px;
+  height: 740px;
+  background-color: rgb(207, 207, 207);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-size: 200px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+  background-image: url("bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 5px solid rgb(170, 12, 136);
+}
+.doodler {
+  width: 90px;
+  height: 85px;
+  position: absolute;
+  background-image: url("doodler.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.platform {
+  height: 15px;
+  width: 85px;
+  position: absolute;
+  background-color: #888486;
+
+
+  border: 3px solid rgb(37, 36, 37);
+
+}
